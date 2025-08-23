@@ -1,0 +1,96 @@
+{
+  "welcome": "Home",
+  "login": "Login",
+  "register": "Register",
+  "logout": "Logout",
+  "language": "Language",
+  "employee_dashboard": "Dashboard",
+  "simulator": "Simulator",
+  "contributions": "Contributions",
+  "company_settings": "Company Settings",
+  "employee_management": "Employee Management",
+
+  "home": {
+    "hero": {
+      "title": "Manage your employees' pensions with peace of mind",
+      "subtitle": "A simple, fast and secure platform to plan your employees’ retirement benefits.",
+      "cta": "Create an employer account"
+    },
+    "advantages": {
+      "title": "Why choose BavSpeeD?",
+      "item1": {
+        "title": "100% Digital",
+        "desc": "Manage everything from your computer or smartphone — no paperwork."
+      },
+      "item2": {
+        "title": "Secure",
+        "desc": "Your data and your employees’ data are protected by encryption."
+      },
+      "item3": {
+        "title": "Automated calculation",
+        "desc": "Simulate retirement pensions based on predefined plans."
+      }
+    },
+    "testimonials": {
+      "title": "They trust us",
+      "item1": {
+        "text": "Thanks to BavSpeeD, we simplified our entire pension management process.",
+        "author": "Jean Dupont, HR at A&B Solutions"
+      },
+      "item2": {
+        "text": "Intuitive and secure. Our employees can view their pension rights in one click.",
+        "author": "Nadine Ebong, Director at AgroCamer"
+      }
+    },
+    "cta_final": {
+      "title": "Start planning pensions today",
+      "button": "Sign up now"
+    }
+  },
+
+  "register_page": {
+    "title": "Create an Account",
+    "employee_tab": "Employee",
+    "employer_tab": "Employer",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "matricule": "Registration Number",
+    "first_name": "Last Name",
+    "last_name": "First Name",
+    "sexe": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "date_naissance": "Date of Birth",
+    "entreprise": "Company Name",
+    "date_entree": "Hire Date",
+    "salaire": "Salary (€)",
+    "submit_employee": "Register as Employee",
+    "company_name": "Company Name",
+    "company_siret": "SIRET",
+    "company_address": "Company Address",
+    "submit_employer": "Register as Employer",
+    "employee_register_btn": "Create Employee Account",
+    "employer_register_btn": "Create Employer Account",
+    "error_register": "Registration failed"
+  },
+
+  "login_page": {
+    "title": "Log in to your account",
+    "subtitle": "Access your personal space",
+    "email": "Email address",
+    "password": "Password",
+    "submit_btn": "Log In",
+    "forgot_password": "Forgot password?",
+    "error_login": "Login failed. Please check your credentials.",
+    "no_account": "Don't have an account yet?",
+    "go_to_register": "Create an account",
+    "loading": "Logging in..."
+  },
+
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  }
+}

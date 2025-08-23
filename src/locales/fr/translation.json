@@ -1,0 +1,96 @@
+{
+  "welcome": "Accueil",
+  "login": "Connexion",
+  "register": "Inscription",
+  "logout": "Déconnexion",
+  "language": "Langue",
+  "employee_dashboard": "Tableau de Bord",
+  "simulator": "Simulateur",
+  "contributions": "Contributions",
+  "company_settings": "Paramètres entreprise",
+  "employee_management": "Gestion des employés",
+
+  "home": {
+    "hero": {
+      "title": "Gérez les retraites de vos employés avec sérénité",
+      "subtitle": "Une plateforme simple, rapide et sécurisée pour planifier les pensions de vos salariés.",
+      "cta": "Créer un compte employeur"
+    },
+    "advantages": {
+      "title": "Pourquoi choisir BavSpeeD ?",
+      "item1": {
+        "title": "100% Digital",
+        "desc": "Gérez tout depuis votre ordinateur ou smartphone, sans papier."
+      },
+      "item2": {
+        "title": "Sécurisé",
+        "desc": "Vos données et celles de vos employés sont protégées par cryptage."
+      },
+      "item3": {
+        "title": "Calcul automatisé",
+        "desc": "Simulez les pensions de retraite selon les plans définis."
+      }
+    },
+    "testimonials": {
+      "title": "Ils nous font confiance",
+      "item1": {
+        "text": "Grâce à BavSpeeD, nous avons simplifié toute la gestion des pensions de notre entreprise.",
+        "author": "Jean Dupont, RH chez A&B Solutions"
+      },
+      "item2": {
+        "text": "Intuitif et sécurisé. Nos employés peuvent voir leurs droits en un clic.",
+        "author": "Nadine Ebong, Directrice chez AgroCamer"
+      }
+    },
+    "cta_final": {
+      "title": "Commencez à planifier les retraites dès aujourd’hui",
+      "button": "S’inscrire maintenant"
+    }
+  },
+
+  "register_page": {
+    "title": "Créer un compte",
+    "employee_tab": "Employé",
+    "employer_tab": "Employeur",
+    "username": "Nom d'utilisateur",
+    "email": "Adresse email",
+    "password": "Mot de passe",
+    "matricule": "Numéro d'immatriculation",
+    "first_name": "Nom",
+    "last_name": "Prénom",
+    "sexe": "Sexe",
+    "male": "Masculin",
+    "female": "Féminin",
+    "date_naissance": "Date de naissance",
+    "entreprise": "Nom de l'entreprise",
+    "date_entree": "Date d'entrée",
+    "salaire": "Salaire (€)",
+    "submit_employee": "S'inscrire comme Employé",
+    "company_name": "Nom de l'entreprise",
+    "company_siret": "Numéro SIRET",
+    "company_address": "Adresse de l'entreprise",
+    "submit_employer": "S'inscrire comme Employeur",
+    "employee_register_btn": "Créer un compte Employé",
+    "employer_register_btn": "Créer un compte Employeur",
+    "error_register": "Erreur lors de l'inscription"
+  },
+
+  "login_page": {
+    "title": "Connexion à votre compte",
+    "subtitle": "Accédez à votre espace personnel",
+    "email": "Adresse email",
+    "password": "Mot de passe",
+    "submit_btn": "Se connecter",
+    "forgot_password": "Mot de passe oublié ?",
+    "error_login": "Échec de la connexion. Veuillez vérifier vos identifiants.",
+    "no_account": "Pas encore de compte ?",
+    "go_to_register": "Créer un compte",
+    "loading": "Connexion en cours..."
+  },
+
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation"
+  }
+}

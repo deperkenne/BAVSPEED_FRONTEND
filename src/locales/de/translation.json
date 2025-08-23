@@ -1,0 +1,96 @@
+{
+  "welcome": "Startseite",
+  "login": "Anmelden",
+  "register": "Registrieren",
+  "logout": "Abmelden",
+  "language": "Sprache",
+  "employee_dashboard": "Dashboard",
+  "simulator": "Simulator",
+  "contributions": "Beiträge",
+  "company_settings": "Unternehmenseinstellungen",
+  "employee_management": "Mitarbeiterverwaltung",
+
+  "home": {
+    "hero": {
+      "title": "Verwalten Sie die Renten Ihrer Mitarbeiter mit Leichtigkeit",
+      "subtitle": "Eine einfache, schnelle und sichere Plattform zur Planung der Altersvorsorge Ihrer Mitarbeiter.",
+      "cta": "Arbeitgeberkonto erstellen"
+    },
+    "advantages": {
+      "title": "Warum BavSpeeD wählen?",
+      "item1": {
+        "title": "100% Digital",
+        "desc": "Verwalten Sie alles über Ihren Computer oder Ihr Smartphone – ganz ohne Papier."
+      },
+      "item2": {
+        "title": "Sicher",
+        "desc": "Ihre Daten und die Ihrer Mitarbeiter sind durch Verschlüsselung geschützt."
+      },
+      "item3": {
+        "title": "Automatische Berechnung",
+        "desc": "Simulieren Sie Rentenleistungen gemäß den definierten Plänen."
+      }
+    },
+    "testimonials": {
+      "title": "Sie vertrauen uns",
+      "item1": {
+        "text": "Dank BavSpeeD haben wir unsere gesamte Rentenverwaltung vereinfacht.",
+        "author": "Jean Dupont, HR bei A&B Solutions"
+      },
+      "item2": {
+        "text": "Intuitiv und sicher. Unsere Mitarbeiter sehen ihre Ansprüche auf einen Blick.",
+        "author": "Nadine Ebong, Direktorin bei AgroCamer"
+      }
+    },
+    "cta_final": {
+      "title": "Beginnen Sie noch heute mit der Rentenplanung",
+      "button": "Jetzt registrieren"
+    }
+  },
+
+  "register_page": {
+    "create_account": "Konto erstellen",
+    "employee_tab": "Mitarbeiter",
+    "employer_tab": "Arbeitgeber",
+    "username": "Benutzername",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "matricule": "Matrikelnummer",
+    "first_name": "Vorname",
+    "last_name": "Nachname",
+    "sexe": "Geschlecht",
+    "male": "Männlich",
+    "female": "Weiblich",
+    "birth_date": "Geburtsdatum",
+    "entreprise": "Firmenname",
+    "entry_date": "Eintrittsdatum",
+    "salary": "Gehalt (€)",
+    "company_name": "Firmenname",
+    "company_siret": "SIRET",
+    "company_address": "Firmenadresse",
+    "submit_employee": "Als Mitarbeiter registrieren",
+    "submit_employer": "Als Arbeitgeber registrieren",
+    "employee_register_btn": "Als Mitarbeiter registrieren",
+    "employer_register_btn": "Als Arbeitgeber registrieren",
+    "error_register": "Fehler bei der Registrierung."
+  },
+
+  "login_page": {
+    "title": "Melden Sie sich bei Ihrem Konto an",
+    "subtitle": "Greifen Sie auf Ihren persönlichen Bereich zu",
+    "email": "E-Mail-Adresse",
+    "password": "Passwort",
+    "submit_btn": "Anmelden",
+    "forgot_password": "Passwort vergessen?",
+    "error_login": "Anmeldung fehlgeschlagen. Bitte überprüfen Sie Ihre Zugangsdaten.",
+    "no_account": "Noch kein Konto?",
+    "go_to_register": "Konto erstellen",
+    "loading": "Anmeldung läuft..."
+  },
+
+  "footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen"
+  }
+}
